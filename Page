@@ -1,0 +1,26 @@
+GDSF-Prototype/
+
+│── index.html
+│── style.css
+│── app.js
+
+├── assets/
+│    ├── images/
+│    │      executive-building.png
+│    ├── icons/
+│    └── logo/
+
+├── pages/
+│    ├── reception.html
+│    ├── executive.html
+│    ├── publications.html
+│    ├── knowledge.html
+│    ├── project.html
+│    ├── ai.html
+│    ├── skills.html
+│    ├── conference.html
+│    └── library.html
+
+├── docs/
+├── data/
+└── README.md
